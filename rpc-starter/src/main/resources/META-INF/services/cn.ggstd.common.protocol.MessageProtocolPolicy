@@ -1,0 +1,3 @@
+cn.ggstd.common.protocol.JavaMessageProtocol
+cn.ggstd.common.protocol.KryoMessageProtocol
+cn.ggstd.common.protocol.ProtoStuffMessageProtocol
